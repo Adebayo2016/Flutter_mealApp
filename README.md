@@ -1,5 +1,5 @@
 # my_meal
-Simple meal Application to demonstrate flutter Application Structure
+Simple meal Application to demonstrate flutter Architecture Structure
 
 ![Screenshot_20210730-160035](https://user-images.githubusercontent.com/23731070/127684246-9fa46a46-7844-4b83-8bae-079ad5391ff1.png)
 ![Screenshot_20210730-160043](https://user-images.githubusercontent.com/23731070/127684283-f3dbf2a8-aca9-4165-a7ee-9534124dd8aa.png)
